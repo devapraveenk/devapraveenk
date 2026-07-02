@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=323A42&height=180&section=header&text=Deva%20Praveen%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=323A42&height=180&section=header&text=Deva%20Praveen%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer" width="100%"/>
 
-<div align="center">
+📍 **Chennai** | **Building web, bots, APIs, and everything in between**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devapraveenk/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devapraveenk)
@@ -14,13 +14,17 @@
 
 </div>
 
-
 <br/>
+
+> Writing clean, maintainable code and always learning new technologies. Passionate about creating seamless user experiences with modern web technologies.
+
+
+<!-- <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Heyyy%2C+I'm+Deva+Praveen!;Playing+with+Zeros+and+Ones.;AI+%E2%80%A2+Backend+%E2%80%A2+System+Design+%E2%80%A2+Open+Source;Surreal+Dreams)](https://readme-typing-svg.demolab.com)
 
 
-</div>
+</div> -->
 
 ---
 
@@ -79,6 +83,8 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ✨ *Also exploring the AI/Tech side:* ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) ![Image Generation](https://img.shields.io/badge/Image%20Generation-20B2AA?style=flat-square) ![GANs](https://img.shields.io/badge/GANs-FF6347?style=flat-square)
+
+> "Be alone, that is the secret of invention; be alone, that is when ideas are born." - Nikola Tesla
 
 ---
 
