@@ -17,14 +17,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Heyyy%2C+I'm+Deva+Praveen!;Playing+with+Zeros+and+Ones.;AI+%E2%80%A2+Backend+%E2%80%A2+System+Design+%E2%80%A2+Open+Source;Surreal+Dreams)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Heyyy%2C+I'm+Deva+Praveen!;Playing+with+Zeros+and+Ones.;AI+%E2%80%A2+Backend+%E2%80%A2+System+Design+%E2%80%A2+Open+Source;Surreal+Dreams)](https://readme-typing-svg.demolab.com)
 
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif"/>
 
 
 ### 🛠️ Tech Stack
